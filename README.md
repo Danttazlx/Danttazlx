@@ -1,16 +1,102 @@
-## Hi there 👋
+Daniel Dantas 👋
 
-<!--
-**Danttazlx/Danttazlx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer Back-End 
 
-Here are some ideas to get you started:
+Olá, Me chamo Daniel Dantas, Tenho 19 anos, sou desenvolvedor Back-End Java em transição para a área de Dados.
+Aqui estão algumas das linguagens e tecnologias com as quais Utilizo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Linguagens e Tecnologias
+
+<img 
+ align="left" 
+ alt="Java"
+ title="Java" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+ align="left" 
+ alt="Spring" 
+ title="Spring"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+ align="left" 
+ alt="PostgreSQL" 
+ title="PostgreSQL"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+ align="left" 
+ alt="MySQL"
+ title="MySQL" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+ align="left" 
+ alt="Git"
+ title="Git" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+ align="left" 
+ alt="Postman" 
+ title="Postman"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+<br/>
+<br/> 
+
+📊 Estudando Atualmente para Dados
+
+<img 
+ align="left" 
+ alt="Python" 
+ title="Python"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+ align="left" 
+ alt="Pandas" 
+ title="Pandas"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+<img 
+ align="left" 
+ alt="NumPy" 
+ title="NumPy"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+/>
+<img 
+ align="left" 
+ alt="Power BI" 
+ title="Power BI"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://img.icons8.com/color/48/power-bi.png" 
+/>
+<img 
+ align="left" 
+ alt="Excel" 
+ title="Excel"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" 
+/>
