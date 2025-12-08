@@ -58,7 +58,7 @@ Aqui estão algumas das linguagens e tecnologias com as quais Utilizo:
 <br/>
 <br/> 
 
-📊 Estudando Atualmente para Dados
+📊 Estudando para Dados
 
 <img 
  align="left" 
