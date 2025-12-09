@@ -2,7 +2,7 @@ Daniel Dantas 👋
 
 Developer Back-End 
 
-Olá, Me chamo Daniel Dantas, Tenho 19 anos, sou desenvolvedor Back-End Java.
+Olá, Me chamo Daniel Dantas, sou desenvolvedor Back-End Java.
 Aqui estão algumas das linguagens e tecnologias com as quais Utilizo:
 
 🤖 Linguagens e Tecnologias
