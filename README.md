@@ -2,7 +2,7 @@
 
 **Em transição para Análise de Dados | Base em Desenvolvimento Back-End Java**
 
-Olá! Tenho 1 ano de experiência em desenvolvimento back-end com Java, Spring Boot, APIs REST, PostgreSQL e Docker. Atualmente curso Tecnólogo em Ciência de Dados e estou focado na transição para a área de dados, trabalhando com Python, Pandas, SQL e Power BI para análise e visualização de dados.
+Olá! Tenho 1+ ano de experiência em desenvolvimento back-end com Java, Spring Boot, APIs REST, PostgreSQL e Docker. Atualmente Faço curso Ciência de Dados e estou focado em aprimorar meus conhecimento na área de dados, Utilizando Python, Pandas, SQL e Power BI para análise e visualização de dados.
 
 ---
 
