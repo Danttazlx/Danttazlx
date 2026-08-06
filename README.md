@@ -13,7 +13,6 @@
 <p align="center">
 Fala! Sou o Daniel — dev back-end com <b>1+ ano de experiência</b> em Java, Spring Boot, APIs REST, PostgreSQL e Docker. 🚀<br>
 Atualmente curso <b>Ciência de Dados</b>, mandando ver em Python, Pandas, SQL e Power BI pra análise e visualização de dados.<br>
-Quando não tô codando, tô no corre de skate 🛹 — a mesma vibe de aprender manobra nova eu levo pro código.
 </p>
 
 <br>
