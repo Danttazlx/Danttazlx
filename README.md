@@ -1,20 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Daniel+Dantas!+%F0%9F%91%8B;Analista+de+Dados+em+forma%C3%A7%C3%A3o;Desenvolvedor+Back-End+Java" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/l0HlSNOxJB956qgli/giphy.gif" width="320" alt="Skate" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=E+a%C3%AD%2C+eu+sou+o+Daniel+Dantas!+%F0%9F%9B%B9;Dev+de+dia%2C+skatista+sempre;Analista+de+Dados+em+forma%C3%A7%C3%A3o;Back-End+Java+na+veia" alt="Typing SVG" />
 
 </div>
 
 <h3 align="center">Em transição para Análise de Dados | Base sólida em Desenvolvimento Back-End Java</h3>
 
 <p align="center">
-Olá! Tenho <b>1+ ano de experiência</b> em desenvolvimento back-end com Java, Spring Boot, APIs REST, PostgreSQL e Docker.
-Atualmente curso <b>Ciência de Dados</b> e estou focado em aprimorar meus conhecimentos na área, utilizando
-Python, Pandas, SQL e Power BI para análise e visualização de dados. 🚀
+Fala! Sou o Daniel — dev back-end com <b>1+ ano de experiência</b> em Java, Spring Boot, APIs REST, PostgreSQL e Docker. 🚀<br>
+Atualmente curso <b>Ciência de Dados</b>, mandando ver em Python, Pandas, SQL e Power BI pra análise e visualização de dados.<br>
+Quando não tô codando, tô no corre de skate 🛹 — a mesma vibe de aprender manobra nova eu levo pro código.
 </p>
 
 <br>
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Minha Stack
 
 ### 📊 Dados & Análise
 
@@ -46,16 +50,33 @@ Python, Pandas, SQL e Power BI para análise e visualização de dados. 🚀
 
 <br>
 
+## 🛹 Fora do código
+
+<p align="left">
+Skatista nas horas vagas. Acredito que evoluir no código é igual mandar uma manobra: cai, levanta, tenta de novo — até sair limpo. 🤙
+</p>
+
+<br>
+
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danttazlx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danttazlx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Danttazlx&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=F97316&icon_color=F97316&cache_seconds=1800" alt="GitHub Stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danttazlx&layout=compact&theme=dark&hide_border=true&title_color=F97316&cache_seconds=1800" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Danttazlx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Danttazlx&theme=dark&hide_border=true&fire=F97316&currStreakLabel=F97316" alt="GitHub Streak" />
+
+</div>
+
+<br>
+
+<!-- 🛹 Skatista atravessando os commits (snake) -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Danttazlx/Danttazlx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -70,5 +91,5 @@ Python, Pandas, SQL e Power BI para análise e visualização de dados. 🚀
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Danttazlx&label=Visitas%20no%20perfil&color=58A6FF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Danttazlx&label=Visitas%20no%20perfil&color=F97316&style=flat" alt="Profile views" />
 </div>
