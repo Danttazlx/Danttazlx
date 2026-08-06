@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0HlSNOxJB956qgli/giphy.gif" width="320" alt="Skate" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:1a1a1a&height=200&section=header&text=Daniel%20Dantas%20%F0%9F%9B%B9&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dev%20de%20dia,%20skatista%20sempre&descAlignY=58&descSize=18" alt="header" />
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=E+a%C3%AD%2C+eu+sou+o+Daniel+Dantas!+%F0%9F%9B%B9;Dev+de+dia%2C+skatista+sempre;Analista+de+Dados+em+forma%C3%A7%C3%A3o;Back-End+Java+na+veia" alt="Typing SVG" />
 
@@ -73,7 +73,7 @@ Skatista nas horas vagas. Acredito que evoluir no código é igual mandar uma ma
 
 <br>
 
-<!-- 🛹 Skatista atravessando os commits (snake) -->
+<!-- 🛹 Skatista atravessando os commits (snake) - ative a Action pra funcionar -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Danttazlx/Danttazlx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -85,7 +85,7 @@ Skatista nas horas vagas. Acredito que evoluir no código é igual mandar uma ma
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/danttazx" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
