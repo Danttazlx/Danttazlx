@@ -57,30 +57,6 @@ Skatista nas horas vagas. Acredito que evoluir no código é igual mandar uma ma
 
 <br>
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Danttazlx&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=F97316&icon_color=F97316&cache_seconds=1800" alt="GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danttazlx&layout=compact&theme=dark&hide_border=true&title_color=F97316&cache_seconds=1800" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Danttazlx&theme=dark&hide_border=true&fire=F97316&currStreakLabel=F97316" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-<!-- 🛹 Skatista atravessando os commits (snake) - ative a Action pra funcionar -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Danttazlx/Danttazlx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-<br>
-
 ## 📫 Contato
 
 <p align="center">
