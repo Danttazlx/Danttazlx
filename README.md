@@ -47,16 +47,6 @@ Atualmente curso <b>Ciência de Dados</b>, mandando ver em Python, Pandas, SQL e
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<br>
-
-## 🛹 Fora do código
-
-<p align="left">
-Skatista nas horas vagas. Acredito que evoluir no código é igual mandar uma manobra: cai, levanta, tenta de novo — até sair limpo. 🤙
-</p>
-
-<br>
-
 ## 📫 Contato
 
 <p align="center">
