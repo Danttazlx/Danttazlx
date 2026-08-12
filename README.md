@@ -1,25 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:1a1a1a&height=200&section=header&text=Daniel%20Dantas%20%F0%9F%9B%B9&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dev%20de%20dia,%20skatista%20sempre&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:1a1a1a&height=200&section=header&text=Daniel%20Dantas%20%F0%9F%9B%B9&fontSize=48&fontColor=ffffff&&fontAlignY=38&desc=%20%20%20%20&descAlignY=58&descSize=18" />
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=E+a%C3%AD%2C+eu+sou+o+Daniel+Dantas!+%F0%9F%9B%B9;Dev+de+dia%2C+skatista+sempre;Analista+de+Dados+em+forma%C3%A7%C3%A3o;Back-End+Java+na+veia" alt="Typing SVG" />
-
-</div>
 
 <h3 align="center">Em transição para Análise de Dados | Base sólida em Desenvolvimento Back-End Java</h3>
 
 <p align="center">
-Fala! Sou o Daniel — dev back-end com <b>1+ ano de experiência</b> em Java, Spring Boot, APIs REST, PostgreSQL e Docker. 🚀<br>
-Atualmente curso <b>Ciência de Dados</b>, mandando ver em Python, Pandas, SQL e Power BI pra análise e visualização de dados.<br>
+Fala! Sou o Dantas — dev back-end com <b>1+ ano de experiência</b> em Java, Spring Boot, APIs REST, Banco de Dados e Docker. 🚀<br>
+curso <b>Ciência de Dados</b>, Atualmente foco em Python, Pandas, SQL e Power BI para Automação e Análise de Dados.<br>
 </p>
 
 <br>
 
-## 🛠️ Minha Stack
+## 🛠️ Minhas Stacks
 
-### 📊 Dados & Análise
+### 📊 Dados & Automação
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -54,7 +49,3 @@ Atualmente curso <b>Ciência de Dados</b>, mandando ver em Python, Pandas, SQL e
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Danttazlx&label=Visitas%20no%20perfil&color=F97316&style=flat" alt="Profile views" />
-</div>
