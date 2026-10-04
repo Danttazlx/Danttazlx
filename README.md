@@ -2,8 +2,6 @@
 
 # Daniel Dantas 👨‍💻
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Back-End+Java+%7C+Spring+Boot;An%C3%A1lise+de+Dados+%7C+SQL+%7C+Power+BI;Desenvolvendo+e+aprendendo+na+pr%C3%A1tica" />
-
 </div>
 
 ## 👋 Sobre mim
