@@ -8,7 +8,7 @@
 
 Estudante de **Ciência de Dados**, com experiência prática em desenvolvimento de software, análise de dados e automação de processos.
 
-Atualmente desenvolvo projetos nas áreas de **Back-End Java** e **Análise de Dados**, utilizando tecnologias como Java, Spring Boot, SQL, Power BI, Excel e Python.
+Atualmente desenvolvo projetos nas áres de **Back-End Java** e **Análise de Dados**, utilizando tecnologias como Java, Spring Boot, SQL, Power BI, Excel e Python.
 
 Busco continuar evoluindo nas duas áreas através de projetos práticos e desafios reais.
 
