@@ -1,16 +1,9 @@
 # 👋 Olá! Eu sou o Daniel Dantas
 
-💻 **Java Backend Developer**
+💻 ** Analista de Dados**
 
 🎓 Cursando **Ciência de Dados**
 
-☕ Focado em desenvolvimento Backend com **Java e Spring Boot**
-
-🚀 Desenvolvendo aplicações com **APIs REST, PostgreSQL, Docker e arquitetura de software**
-
-📚 Atualmente aprofundando meus conhecimentos em **Spring Boot, JPA/Hibernate, testes, Docker e arquiteturas de aplicações**
-
----
 
 ### 🛠️ Tecnologias
 
