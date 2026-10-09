@@ -1,8 +1,7 @@
 # 👋 Olá! Eu sou o Daniel Dantas
 
-💻 ** Analista de Dados**
+💻 **Engenheiro de Software**
 
-🎓 Cursando **Ciência de Dados**
 
 
 ### 🛠️ Tecnologias
