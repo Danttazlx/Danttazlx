@@ -31,24 +31,11 @@ Sou Daniel Dantas, tenho experiência em tecnologia e automação e curso **Ciê
 
 
 
-### 📊 Análise de Dados
-
-Ferramentas que estudo e aplico em consultas, análises, dashboards e apresentações:
-
-<div align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" title="SQL" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server" title="SQL Server" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel" title="Excel" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge" alt="PowerPoint" title="PowerPoint" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" alt="Power BI" title="Power BI" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge" alt="MySQL" title="MySQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python" title="Python" />
-</div>
 
 
-### 📫 Contato
 
 
+### 📫 Contatos
 
 
 💼 **LinkedIn:** www.linkedin.com/in/danttazx  
